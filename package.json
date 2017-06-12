@@ -1,0 +1,22 @@
+{
+  "name": "gk-test-repo",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/push-to-prod/test-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/push-to-prod/test-repo/issues"
+  },
+  "homepage": "https://github.com/push-to-prod/test-repo#readme",
+  "dependencies": {
+    "gk-test-dep": "^134.0.0"
+  }
+}
