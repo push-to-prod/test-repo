@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/push-to-prod/test-repo#readme",
   "dependencies": {
-    "test-dep-for-bb-dep": "3.0.0"
+    "test-dep-for-bb-dep": "4.0.0"
   },
   "devDependencies": {
     "mocha": "^3.4.2"
