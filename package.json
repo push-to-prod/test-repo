@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/push-to-prod/test-repo#readme",
   "dependencies": {
-    "gk-test-dep": "^134.0.0"
+    "test-dep-for-bb-dep": "1.0.0"
   }
 }
